@@ -1,0 +1,2 @@
+# Only needed to regenerate certificates. Verification uses the standard library.
+scipy>=1.11,<2
